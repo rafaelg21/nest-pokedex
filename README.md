@@ -21,6 +21,11 @@ npm i -g @nestjs/cli
 docker-compose up -d
 ```
 
+5.  Ejecutar la app 
+```
+yarn start:dev
+```
+
 ## Satack usado
 * MongoDB
 * Nest 
